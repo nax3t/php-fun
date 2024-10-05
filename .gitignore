@@ -1,0 +1,37 @@
+# Database
+mls_teams.db
+
+# PHP
+vendor/
+composer.lock
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+*.bak
+
+# Cache
+cache/
+.phpunit.result.cache
+
+# Compiled assets (if you add any in the future)
+/public/assets/
+
+# User-uploaded content (if you add this feature in the future)
+/uploads/
